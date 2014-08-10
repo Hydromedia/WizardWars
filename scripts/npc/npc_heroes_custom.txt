@@ -1,0 +1,80 @@
+"DOTAHeroes"
+{
+	//=================================================================================================================
+	// HERO: wizardwars_invoker
+	//=================================================================================================================
+	"npc_dota_hero_carl_wizard_wars"
+	{
+		"override_hero"				"npc_dota_hero_invoker"
+		"AbilityLayout"				"6"
+		"Ability1"					"wizardwars_invoker_quas"
+		"Ability2"					"wizardwars_invoker_wex"
+		"Ability3"					"wizardwars_invoker_exort"
+		"Ability4"					"wizardwars_invoker_empty1"
+		"Ability5"					"wizardwars_invoker_empty2"
+		"Ability6"					"wizardwars_invoker_invoke"
+		"Ability7"					"wizardwars_invoker_cold_snap"
+		"Ability8"					"wizardwars_invoker_ghost_walk"
+		"Ability9"					"wizardwars_invoker_tornado"
+		"Ability10"					"wizardwars_invoker_emp"
+		"Ability11"					"wizardwars_invoker_alacrity"
+		"Ability12"					"wizardwars_invoker_chaos_meteor"
+		"Ability13"					"wizardwars_invoker_sun_strike"
+		"Ability14"					"wizardwars_invoker_forge_spirit"
+		"Ability15"					"wizardwars_invoker_ice_wall"
+		"Ability16"					"wizardwars_invoker_deafening_blast"
+		"VisionNighttimeRange"		"1800"										// Range of vision at night time.
+	}	
+
+	//=================================================================================================================
+	// HERO: wizardwars_invoker
+	//=================================================================================================================
+	"npc_dota_hero_witch_doctor_wizard_wars"
+	{
+		"override_hero"				"npc_dota_hero_witch_doctor"
+		"AbilityLayout"				"6"
+		"Ability1"					"wizardwars_invoker_quas"
+		"Ability2"					"wizardwars_invoker_wex"
+		"Ability3"					"wizardwars_invoker_exort"
+		"Ability4"					"wizardwars_invoker_empty1"
+		"Ability5"					"wizardwars_invoker_empty2"
+		"Ability6"					"wizardwars_invoker_invoke"
+		"Ability7"					"wizardwars_invoker_cold_snap"
+		"Ability8"					"wizardwars_invoker_ghost_walk"
+		"Ability9"					"wizardwars_invoker_tornado"
+		"Ability10"					"wizardwars_invoker_emp"
+		"Ability11"					"wizardwars_invoker_alacrity"
+		"Ability12"					"wizardwars_invoker_chaos_meteor"
+		"Ability13"					"wizardwars_invoker_sun_strike"
+		"Ability14"					"wizardwars_invoker_forge_spirit"
+		"Ability15"					"wizardwars_invoker_ice_wall"
+		"Ability16"					"wizardwars_invoker_deafening_blast"
+		"VisionNighttimeRange"		"1800"										// Range of vision at night time.
+	}	
+
+	//=================================================================================================================
+	// HERO: wizardwars_invoker
+	//=================================================================================================================
+	"npc_dota_hero_rubick_wizard_wars"
+	{
+		"override_hero"				"npc_dota_hero_rubick"
+		"AbilityLayout"				"6"
+		"Ability1"					"wizardwars_invoker_quas"
+		"Ability2"					"wizardwars_invoker_wex"
+		"Ability3"					"wizardwars_invoker_exort"
+		"Ability4"					"wizardwars_invoker_empty1"
+		"Ability5"					"wizardwars_invoker_empty2"
+		"Ability6"					"wizardwars_invoker_invoke"
+		"Ability7"					"wizardwars_invoker_cold_snap"
+		"Ability8"					"wizardwars_invoker_ghost_walk"
+		"Ability9"					"wizardwars_invoker_tornado"
+		"Ability10"					"wizardwars_invoker_emp"
+		"Ability11"					"wizardwars_invoker_alacrity"
+		"Ability12"					"wizardwars_invoker_chaos_meteor"
+		"Ability13"					"wizardwars_invoker_sun_strike"
+		"Ability14"					"wizardwars_invoker_forge_spirit"
+		"Ability15"					"wizardwars_invoker_ice_wall"
+		"Ability16"					"wizardwars_invoker_deafening_blast"
+		"VisionNighttimeRange"		"1800"										// Range of vision at night time.
+	}	
+}
